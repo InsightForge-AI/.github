@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+![Teams](https://img.shields.io/badge/Teams-Multi--Team-blue)
+![Built With](https://img.shields.io/badge/Built%20With-FastAPI%20%7C%20ML%20%7C%20NLP-orange)
+
+
 # 🚀 InsightForge AI
 
 Welcome to **InsightForge AI** — a collaborative AI lab where we design and build real-world intelligent systems.
