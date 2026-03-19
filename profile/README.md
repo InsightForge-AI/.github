@@ -36,7 +36,7 @@ An end-to-end AI system that can:
 ---
 
 ## 🏗️ System Architecture
-# 🚀 InsightForge AI (or your org name)
+# 🚀 InsightForge AI 
 
 Welcome to **InsightForge AI** — a collaborative AI lab where we design and build real-world intelligent systems.
 
